@@ -11,7 +11,7 @@ RED, RED, RED, RED
 This challenge had an image attached to it. Basically it's called red.png with the color red. Literally.  
 <img width="128" height="128" alt="red" src="https://github.com/user-attachments/assets/e985cdb9-52a7-4623-93be-603c21a2df2f" />  
 First thing I did as usual is check the exiftool. Surprisingly, there is a poem inside it.
-<img width="1096" height="506" alt="image" src="https://github.com/user-attachments/assets/6e43e137-4c41-416f-889d-144cd01f26f5" />  
+<img width="1002" height="486" alt="image" src="https://github.com/user-attachments/assets/4739f996-8d11-4b32-99c7-77babf747fee" />
 This poem looks weird and my first instinct was to look at the capital letters and it showed "CHECKLSB".  
 I checked the LSB where the color is inverted etc but found nothing. So I searched the internet on what to do and was told to do zsteg.  
 <img width="1097" height="419" alt="image" src="https://github.com/user-attachments/assets/d9980e7c-cd5a-405f-9cb7-dc7d07584627" />

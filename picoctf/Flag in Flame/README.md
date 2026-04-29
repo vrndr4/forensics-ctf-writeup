@@ -1,6 +1,6 @@
 ## Challenge Info
 
-**Title:** Flag in Flame 
+**Title:** Flag in Flame  
 **Category:** Forensics  
 **Difficulty:** Easy  
 **Description:*

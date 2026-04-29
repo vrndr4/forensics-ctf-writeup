@@ -24,4 +24,4 @@ picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
 
 ## Comment
 
-Not the toughest so far. Pretty cool to memorize some stuff in Linux.
+Not the toughest so far. Pretty cool to memorize some tools.

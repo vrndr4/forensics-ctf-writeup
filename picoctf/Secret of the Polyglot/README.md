@@ -21,7 +21,7 @@ And there's the results. Combining the png and the pdf makes the flag.
 
 ## Flag
 
-picoCTF{f1u3n7_1n_pn9_&_pdf_********}
+picoCTF{*************_&_pdf_7f9bccd1}
 
 ## Comment
 

@@ -1,5 +1,3 @@
-WU FORMAT
-
 ## Challenge Info
 
 **Title:** Hidden in plainsight  

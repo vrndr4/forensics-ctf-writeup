@@ -20,7 +20,11 @@ The text in red looks weird so I decoded it and found the flag:
 
 ## Flag
 
-picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
+Flag: picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_********}
+
+✔ Visual data analyzed for anomalies  
+✔ Relevant pattern identified and interpreted  
+✔ Flag reconstructed and validated on platform
 
 ## Comment
 

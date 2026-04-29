@@ -18,7 +18,11 @@ So I decoded it using echo (numbers and letters) | xxd -r -p and found the flag.
 
 ## Flag
 
-picoCTF{forensics_analysis_is_amazing_24d16895}
+Flag: picoCTF{forensics_analysis_is_amazing_********}
+
+✔ Indicators found through file analysis  
+✔ Data successfully extracted and interpreted  
+✔ Output matched expected flag format and validated
 
 ## Comment
 

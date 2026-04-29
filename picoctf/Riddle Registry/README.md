@@ -19,7 +19,11 @@ Pasted the author name, decoded it and found the flag.
 
 ## Flag
 
-picoCTF{puzzl3d_m3tadata_f0und!_ca76bbb2}
+Flag: picoCTF{puzzl3d_m3tadata_f0und!_********}
+
+✔ Metadata inspected and anomalous entries identified  
+✔ Embedded information extracted successfully  
+✔ Output matched expected structure and validated
 
 ## Comment
 

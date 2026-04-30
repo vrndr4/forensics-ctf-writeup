@@ -19,7 +19,7 @@ And there's the flag
 
 ## Flag
 
-picoCTF{trust_but_verify_********}
+`picoCTF{trust_but_verify_********}`
 
 ## Comment
 

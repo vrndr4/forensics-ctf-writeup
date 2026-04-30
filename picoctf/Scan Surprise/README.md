@@ -11,7 +11,7 @@ Pretty straightforward. I downloaded the zip file provided, opened the folders a
 
 ## Flag
 
-picoCTF{p33k_@_***_********}
+`picoCTF{p33k_@_***_********}`
 
 ## Comment
 

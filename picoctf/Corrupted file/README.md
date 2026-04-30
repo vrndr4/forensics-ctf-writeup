@@ -14,7 +14,7 @@ After that, a new file appears in my File Explorer containing the flag.
 
 ## Flag
 
-`picoCTF{r3st0r1ng_th3_by73s_0e8fb0ec}`
+`picoCTF{r3st0r1ng_th3_by73s_********}`
 
 ## Comment
 

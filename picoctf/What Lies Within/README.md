@@ -14,7 +14,7 @@ Turns out it was in the zsteg. Flag found.
 
 ## Flag
 
-`picoCTF{h1d1ng_1n_th3_b1t5}`
+`picoCTF{h1d1ng_1n_***_****}`
 
 ## Comment
 

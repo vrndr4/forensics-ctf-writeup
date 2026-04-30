@@ -16,7 +16,7 @@ Without furtherado I decoded this and yeah there's the flag.
 
 ## Flag
 
-picoCTF{ME74D47A_HIDD3N_********}
+`picoCTF{ME74D47A_HIDD3N_********}`
 
 ## Comment
 

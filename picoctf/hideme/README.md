@@ -19,7 +19,7 @@ Turns out, I got the flag in the secret folder, containing an image of the flag.
 
 ## Flag
 
-picoCTF(Hiddinng_An_imag3_within_@n_image_********}
+`picoCTF(Hiddinng_An_imag3_within_@n_image_********}`
 
 ## Comment
 

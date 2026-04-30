@@ -15,7 +15,7 @@ My first instinct was to decode this and yeah there's the flag.
 
 ## Flag
 
-picoCTF{the_m3tadata_1s_modified}
+`picoCTF{the_m3tadata_1s_********}`
 
 ## Comment
 

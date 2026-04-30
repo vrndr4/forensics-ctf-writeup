@@ -19,7 +19,7 @@ I've rarely used steghide before so I looked it up and went on to steghide the j
 
 ## Flag
 
-Flag: picoCTF{h1dd3n_1n_1m4g3_********}
+`picoCTF{h1dd3n_1n_1m4g3_********}`
 
 ✔ Hidden content detected within image file  
 ✔ Extracted using steganography techniques  

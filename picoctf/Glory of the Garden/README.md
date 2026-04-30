@@ -11,7 +11,7 @@ This challenge provided a jpg iamge of a garden. So an easy way to do this is ju
 
 ## Flag
 
-`picoCTF{more_than_m33ts_the_3y339140129}`
+`picoCTF{more_than_m33ts_the_***********}`
 
 ## Comment
 
